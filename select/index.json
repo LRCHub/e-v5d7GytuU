@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "EX!T",
+  "base_artist": "EO",
+  "createdAt": "2026-02-12T11:01:18.150916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ex.T. Blu",
+      "artist": "Luca Carboni",
+      "has_synced": true,
+      "path": "select/01_Ex.T._Blu_Luca_Carboni.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Letter To Ur N(ex)t",
+      "artist": "Mahalia",
+      "has_synced": true,
+      "path": "select/02_Letter_To_Ur_N(ex)t_Mahalia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Letter to Ur N(ex)t",
+      "artist": "Mahalia",
+      "has_synced": true,
+      "path": "select/03_Letter_to_Ur_N(ex)t_Mahalia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Letter to Ur N(ex)t",
+      "artist": "Mahalia",
+      "has_synced": true,
+      "path": "select/04_Letter_to_Ur_N(ex)t_Mahalia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Letter To Ur N(ex)t",
+      "artist": "Mahalia",
+      "has_synced": true,
+      "path": "select/05_Letter_To_Ur_N(ex)t_Mahalia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ex.T. Blu (Live)",
+      "artist": "Luca Carboni",
+      "has_synced": false,
+      "path": "select/06_Ex.T._Blu_(Live)_Luca_Carboni.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ex.T. Blu",
+      "artist": "Carboni Luca",
+      "has_synced": true,
+      "path": "select/07_Ex.T._Blu_Carboni_Luca.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ex.T. Blu 1996",
+      "artist": "Carboni Luca",
+      "has_synced": false,
+      "path": "select/08_Ex.T._Blu_1996_Carboni_Luca.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EX!T (feat. 鏡音リン)",
+      "artist": "EO",
+      "has_synced": false,
+      "path": "select/pl_01_EX!T_(feat._鏡音リン)_EO.txt"
+    }
+  ]
+}
